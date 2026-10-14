@@ -38,6 +38,95 @@
             }
         ]
     },
+    "Blighted Endo Freddy": {
+        "Type": "AOE + Wither",
+        "Image": "rbxassetid://18151573285",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Max": 2,
+        "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 70,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            },
+            {
+                "Price": 75000,
+                "Range": 28,
+                "Damage": 100,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            },
+            {
+                "Price": 80000,
+                "Range": 30,
+                "Damage": 120,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            },
+            {
+                "Price": 85000,
+                "Range": 33,
+                "Damage": 150,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            }
+        ]
+    },
+     "Phantom Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18356356760",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 700,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 19,
+                "Damage": 800,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 21,
+                "Damage": 1250,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Phantom Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
