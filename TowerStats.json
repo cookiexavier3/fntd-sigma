@@ -89,7 +89,7 @@
             }
         ]
     },
-     "Phantom Chica": {
+    "Phantom Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
         "Rarity": "Secret",
@@ -127,7 +127,7 @@
             }
         ]
     },
-     "Phantom Foxy": {
+    "Phantom Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
@@ -165,7 +165,7 @@
             }
         ]
     },
-     "Amalgam": {
+    "Amalgam": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
@@ -208,7 +208,7 @@
             }
         ]
     },
-     "Phantom Gold Freddy": {
+    "Phantom Gold Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
@@ -284,7 +284,7 @@
             }
         ]
     },
-      "SpringTrap": {
+    "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
@@ -368,7 +368,7 @@
             }
         ]
     },
-     "Phantom Mangle": {
+    "Phantom Mangle": {
         "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
@@ -402,7 +402,7 @@
             {
                 "Price": 83000,
                 "Range": 32,
-                "Damage": 2oo0,
+                "Damage": 2000,
                 "Cooldown": 0.25,
                 "Wither": 1.5,
                 "ShinyWither": 1.5,
@@ -457,96 +457,7 @@
             }
         ]
     },
-     "Phantom Mangle": {
-        "Type": "Continuous Wither",
-        "Image": "rbxassetid://18363533024",
-        "Rarity": "Nightmare",
-        "PlacePrice": 61000,
-        "Max": 2,
-        "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 2500,
-                "Cooldown": 0.25,
-                "Wither": 1.5,
-                "ShinyWither": 1.5,
-                "WitherTime": 1
-            },
-            {
-                "Price": 72000,
-                "Range": 28,
-                "Damage": 3400,
-                "Cooldown": 0.25,
-                "Wither": 1.5,
-                "ShinyWither": 1.5,
-                "WitherTime": 1
-            },
-            {
-                "Price": 83000,
-                "Range": 32,
-                "Damage": 4300,
-                "Cooldown": 0.25,
-                "Wither": 1.5,
-                "ShinyWither": 1.5,
-                "WitherTime": 1
-            },
-            {
-                "Price": 94000,
-                "Range": 35,
-                "Damage": 5250,
-                "Cooldown": 0.25,
-                "Wither": 1.5,
-                "ShinyWither": 1.5,
-                "WitherTime": 1
-            }
-        ]
-    },
-    "Phantom Cupcake": {
-        "Type": "Single",
-        "Image": "rbxassetid://18363537562",
-        "Rarity": "Secret",
-        "PlacePrice": 800,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1400,
-                "Range": 18,
-                "Damage": 125,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1800,
-                "Range": 22,
-                "Damage": 160,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2400,
-                "Range": 25,
-                "Damage": 250,
-                "Cooldown": 1
-            }
-        ]    
-    },
-      "Phantom Puppet": {
+    "Phantom Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363546528",
         "Rarity": "Secret",
