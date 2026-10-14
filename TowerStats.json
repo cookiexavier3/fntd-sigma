@@ -89,6 +89,272 @@
             }
         ]
     },
+      "Tarnished Spring Bonnie": {
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://18777411515",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Tarnish", "Description": "Enemies hit by Tarnished Spring Bonnie's attack take 10% more damage for 2 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 700,
+                "Range": 24,
+                "Damage": 200,
+                "Cooldown": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 250,
+                "Cooldown": 0.4,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 26,
+                "Damage": 300,
+                "Cooldown": 0.4,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 400,
+                "Cooldown": 0.3,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            }
+        ]
+    },
+     "Rockin Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://17689695988",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 800,
+                "Range": 18,
+                "Damage": 12,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 15,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 17,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Pirate Withered Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://17851205149",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0.55,
+        "Max": 3,
+        "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 45,
+                "Cooldown": 0.5,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 50,
+                "Cooldown": 0.4,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            },
+            {
+                "Price": 1400,
+                "Range": 25,
+                "Damage": 55,
+                "Cooldown": 0.3,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 27,
+                "Damage": 75,
+                "Cooldown": 0.3,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            }
+        ]
+    },
+ "Marionette's Puppeteer": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18151575297",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 17,
+                "Damage": 2100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 19,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 21,
+                "Damage": 3600,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Phantom Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18356356760",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 19,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 21,
+                "Damage": 550,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Baker Toy Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18161347460",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1400,
+                "Range": 23                
+                "Damage": 70,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 125,
+                "Cooldown": 0.8
+            }
+        ]
+    },
     "Phantom Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
