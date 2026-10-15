@@ -390,6 +390,95 @@
             }
         ]
     },
+     "Endo 03": {
+        "Type": "Single",
+        "Image": "rbxassetid://18363471703",
+        "Rarity": "Epic",
+        "PlacePrice": 2000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 70,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4000,
+                "Range": 23,
+                "Damage": 100,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 5000,
+                "Range": 27,
+                "Damage": 130,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+     "Phantom Mangle": {
+        "Type": "Continuous Wither",
+        "Image": "rbxassetid://18363533024",
+        "Rarity": "Nightmare",
+        "PlacePrice": 61000,
+        "Max": 2,
+        "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
+            },
+            {
+                "Price": 72000,
+                "Range": 28,
+                "Damage": 3400,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
+            },
+            {
+                "Price": 83000,
+                "Range": 32,
+                "Damage": 4300,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
+            },
+            {
+                "Price": 94000,
+                "Range": 35,
+                "Damage": 5250,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
+            }
+        ]
+    },
        "Major Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18665224476",
